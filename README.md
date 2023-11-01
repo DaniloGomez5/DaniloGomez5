@@ -19,15 +19,14 @@ mis habilidades para mantenerme al día con las últimas tendencias tecnológica
 
 Aquí tienes algunos de mis proyectos más destacados:
 
-- [Proyecto 1](enlace al proyecto 1):
-- 
-Puedes encontrar más detalles sobre mis proyectos en mi [sitio web personal](enlace a tu sitio web) o en mi perfil de [LinkedIn](enlace a tu perfil de LinkedIn).
+- ProjUnity: https://proj-unity.vercel.app/ 
+Puedes encontrar más detalles sobre mis proyectos en mi Github (https://github.com/DaniloGomez5).
 
 ## Cómo contactarme
 
 Puedes contactarme a través de:
 
-- Correo electrónico: [danilog992@gmail.com](mailto:danilog992@gmail.com)
-- LinkedIn: [Mi Perfil de LinkedIn]
+- Correo electrónico: danilog992@gmail.com (mailto:danilog992@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/danilo-gomez-b6a3ab26a/
 
 ¡Gracias por visitar mi perfil de GitHub!
